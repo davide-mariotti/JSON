@@ -2,7 +2,7 @@
 	{
 		"country":"USA",
 		"image":"/image/pippo.jpg",
-		"name":"Prodotto 1",
+		"name":"Prodotto A 1",
 		"website":"https://www.google.com",
 		"targetwebsite":"_self",
 		"labelwebsite":"Prodotto 1 link"
@@ -10,7 +10,7 @@
 	{
 		"country":"USA",
 		"image":"/image/pippo.jpg",
-		"name":"Prodotto 2",
+		"name":"Prodotto A 2",
 		"website":"https://www.google.com",
 		"targetwebsite":"_self",
 		"labelwebsite":"Prodotto 2 link"
@@ -18,7 +18,7 @@
 	{
 		"country":"USA",
 		"image":"/image/pippo.jpg",
-		"name":"Prodotto 3",
+		"name":"Prodotto A 3",
 		"website":"https://www.google.com",
 		"targetwebsite":"_self",
 		"labelwebsite":"Prodotto 3 link"
@@ -26,7 +26,7 @@
 	{
 		"country":"USA",
 		"image":"/image/pippo.jpg",
-		"name":"Prodotto 4",
+		"name":"Prodotto A 4",
 		"website":"https://www.google.com",
 		"targetwebsite":"_self",
 		"labelwebsite":"Prodotto 4 link"
@@ -34,7 +34,7 @@
 	{
 		"country":"ITALIA",
 		"image":"/image/pippo.jpg",
-		"name":"Prodotto 1",
+		"name":"Prodotto B 1",
 		"website":"https://www.google.com",
 		"targetwebsite":"_self",
 		"labelwebsite":"Prodotto 1 link"
@@ -42,7 +42,7 @@
 	{
 		"country":"ITALIA",
 		"image":"/image/pippo.jpg",
-		"name":"Prodotto 2",
+		"name":"Prodotto B 2",
 		"website":"https://www.google.com",
 		"targetwebsite":"_self",
 		"labelwebsite":"Prodotto 2 link"
@@ -50,7 +50,7 @@
 	{
 		"country":"ITALIA",
 		"image":"/image/pippo.jpg",
-		"name":"Prodotto 3",
+		"name":"Prodotto B 3",
 		"website":"https://www.google.com",
 		"targetwebsite":"_self",
 		"labelwebsite":"Prodotto 3 link"
@@ -58,7 +58,7 @@
 	{
 		"country":"ITALIA",
 		"image":"/image/pippo.jpg",
-		"name":"Prodotto 4",
+		"name":"Prodotto B 4",
 		"website":"https://www.google.com",
 		"targetwebsite":"_self",
 		"labelwebsite":"Prodotto 4 link"
@@ -66,7 +66,7 @@
 	{
 		"country":"FRANCIA",
 		"image":"/image/pippo.jpg",
-		"name":"Prodotto 1",
+		"name":"Prodotto C 1",
 		"website":"https://www.google.com",
 		"targetwebsite":"_self",
 		"labelwebsite":"Prodotto 1 link"
@@ -74,7 +74,7 @@
 	{
 		"country":"FRANCIA",
 		"image":"/image/pippo.jpg",
-		"name":"Prodotto 2",
+		"name":"Prodotto C 2",
 		"website":"https://www.google.com",
 		"targetwebsite":"_self",
 		"labelwebsite":"Prodotto 2 link"
@@ -82,7 +82,7 @@
 	{
 		"country":"FRANCIA",
 		"image":"/image/pippo.jpg",
-		"name":"Prodotto 3",
+		"name":"Prodotto C 3",
 		"website":"https://www.google.com",
 		"targetwebsite":"_self",
 		"labelwebsite":"Prodotto 3 link"
@@ -90,7 +90,7 @@
 	{
 		"country":"FRANCIA",
 		"image":"/image/pippo.jpg",
-		"name":"Prodotto 4",
+		"name":"Prodotto C 4",
 		"website":"https://www.google.com",
 		"targetwebsite":"_self",
 		"labelwebsite":"Prodotto 4 link"
@@ -98,7 +98,7 @@
 	{
 		"country":"GERMANIA",
 		"image":"/image/pippo.jpg",
-		"name":"Prodotto 1",
+		"name":"Prodotto D 1",
 		"website":"https://www.google.com",
 		"targetwebsite":"_self",
 		"labelwebsite":"Prodotto 1 link"
@@ -106,7 +106,7 @@
 	{
 		"country":"GERMANIA",
 		"image":"/image/pippo.jpg",
-		"name":"Prodotto 2",
+		"name":"Prodotto D 2",
 		"website":"https://www.google.com",
 		"targetwebsite":"_self",
 		"labelwebsite":"Prodotto 2 link"
@@ -114,7 +114,7 @@
 	{
 		"country":"GERMANIA",
 		"image":"/image/pippo.jpg",
-		"name":"Prodotto 3",
+		"name":"Prodotto D 3",
 		"website":"https://www.google.com",
 		"targetwebsite":"_self",
 		"labelwebsite":"Prodotto 3 link"
@@ -122,7 +122,7 @@
 	{
 		"country":"GERMANIA",
 		"image":"/image/pippo.jpg",
-		"name":"Prodotto 4",
+		"name":"Prodotto D 4",
 		"website":"https://www.google.com",
 		"targetwebsite":"_self",
 		"labelwebsite":"Prodotto 4 link"
