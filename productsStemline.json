@@ -1,7 +1,7 @@
 [
 	{
 		"country":"USA",
-		"image":"/image/pippo.jpg",
+		"image":"https://raw.githubusercontent.com/davide-mariotti/productsStemline/main/Kaleidon60.png",
 		"name":"Prodotto A 1",
 		"website":"https://www.google.com",
 		"targetwebsite":"_self",
@@ -9,7 +9,7 @@
 	},
 	{
 		"country":"USA",
-		"image":"/image/pippo.jpg",
+		"image":"https://raw.githubusercontent.com/davide-mariotti/productsStemline/main/KaleidonIdro.png",
 		"name":"Prodotto A 2",
 		"website":"https://www.google.com",
 		"targetwebsite":"_self",
@@ -17,7 +17,7 @@
 	},
 	{
 		"country":"USA",
-		"image":"/image/pippo.jpg",
+		"image":"https://raw.githubusercontent.com/davide-mariotti/productsStemline/main/prostamol.png",
 		"name":"Prodotto A 3",
 		"website":"https://www.google.com",
 		"targetwebsite":"_self",
@@ -25,7 +25,7 @@
 	},
 	{
 		"country":"USA",
-		"image":"/image/pippo.jpg",
+		"image":"https://raw.githubusercontent.com/davide-mariotti/productsStemline/main/Kaleidon60.png",
 		"name":"Prodotto A 4",
 		"website":"https://www.google.com",
 		"targetwebsite":"_self",
@@ -33,7 +33,7 @@
 	},
 	{
 		"country":"ITALIA",
-		"image":"/image/pippo.jpg",
+		"image":"https://raw.githubusercontent.com/davide-mariotti/productsStemline/main/Kaleidon60.png",
 		"name":"Prodotto B 1",
 		"website":"https://www.google.com",
 		"targetwebsite":"_self",
@@ -41,7 +41,7 @@
 	},
 	{
 		"country":"ITALIA",
-		"image":"/image/pippo.jpg",
+		"image":"https://raw.githubusercontent.com/davide-mariotti/productsStemline/main/KaleidonIdro.png",
 		"name":"Prodotto B 2",
 		"website":"https://www.google.com",
 		"targetwebsite":"_self",
@@ -49,7 +49,7 @@
 	},
 	{
 		"country":"ITALIA",
-		"image":"/image/pippo.jpg",
+		"image":"https://raw.githubusercontent.com/davide-mariotti/productsStemline/main/prostamol.png",
 		"name":"Prodotto B 3",
 		"website":"https://www.google.com",
 		"targetwebsite":"_self",
@@ -57,7 +57,7 @@
 	},
 	{
 		"country":"ITALIA",
-		"image":"/image/pippo.jpg",
+		"image":"https://raw.githubusercontent.com/davide-mariotti/productsStemline/main/Kaleidon60.png",
 		"name":"Prodotto B 4",
 		"website":"https://www.google.com",
 		"targetwebsite":"_self",
@@ -65,7 +65,7 @@
 	},
 	{
 		"country":"FRANCIA",
-		"image":"/image/pippo.jpg",
+		"image":"https://raw.githubusercontent.com/davide-mariotti/productsStemline/main/Kaleidon60.png",
 		"name":"Prodotto C 1",
 		"website":"https://www.google.com",
 		"targetwebsite":"_self",
@@ -73,7 +73,7 @@
 	},
 	{
 		"country":"FRANCIA",
-		"image":"/image/pippo.jpg",
+		"image":"https://raw.githubusercontent.com/davide-mariotti/productsStemline/main/KaleidonIdro.png",
 		"name":"Prodotto C 2",
 		"website":"https://www.google.com",
 		"targetwebsite":"_self",
@@ -81,7 +81,7 @@
 	},
 	{
 		"country":"FRANCIA",
-		"image":"/image/pippo.jpg",
+		"image":"https://raw.githubusercontent.com/davide-mariotti/productsStemline/main/prostamol.png",
 		"name":"Prodotto C 3",
 		"website":"https://www.google.com",
 		"targetwebsite":"_self",
@@ -89,7 +89,7 @@
 	},
 	{
 		"country":"FRANCIA",
-		"image":"/image/pippo.jpg",
+		"image":"https://raw.githubusercontent.com/davide-mariotti/productsStemline/main/Kaleidon60.png",
 		"name":"Prodotto C 4",
 		"website":"https://www.google.com",
 		"targetwebsite":"_self",
@@ -97,7 +97,7 @@
 	},
 	{
 		"country":"GERMANIA",
-		"image":"/image/pippo.jpg",
+		"image":"https://raw.githubusercontent.com/davide-mariotti/productsStemline/main/Kaleidon60.png",
 		"name":"Prodotto D 1",
 		"website":"https://www.google.com",
 		"targetwebsite":"_self",
@@ -105,7 +105,7 @@
 	},
 	{
 		"country":"GERMANIA",
-		"image":"/image/pippo.jpg",
+		"image":"https://raw.githubusercontent.com/davide-mariotti/productsStemline/main/KaleidonIdro.png",
 		"name":"Prodotto D 2",
 		"website":"https://www.google.com",
 		"targetwebsite":"_self",
@@ -113,7 +113,7 @@
 	},
 	{
 		"country":"GERMANIA",
-		"image":"/image/pippo.jpg",
+		"image":"https://raw.githubusercontent.com/davide-mariotti/productsStemline/main/prostamol.png",
 		"name":"Prodotto D 3",
 		"website":"https://www.google.com",
 		"targetwebsite":"_self",
@@ -121,7 +121,7 @@
 	},
 	{
 		"country":"GERMANIA",
-		"image":"/image/pippo.jpg",
+		"image":"https://raw.githubusercontent.com/davide-mariotti/productsStemline/main/Kaleidon60.png",
 		"name":"Prodotto D 4",
 		"website":"https://www.google.com",
 		"targetwebsite":"_self",
