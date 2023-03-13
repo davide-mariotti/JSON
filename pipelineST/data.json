@@ -1,0 +1,99 @@
+
+[
+   {
+      "Compound":"pippo",
+      "Mechanism of action":"meccanismo 1",
+      "Indication":"Indicazione 1",
+      "Development Stage":"1",
+      "Clinical trials":"<a href=\"https://www.clinicaltrials.com\">Clinical Trials</a>",
+      "Read More":"<h1>Titolo popup</h1><p>Lorem Ipsum Lorem Ipsum Lorem Ipsum</p><p><img src=\"/uk-flag.jpg\" /> <a href=\"http://www.google.it\">Read More</a></p>"
+   },
+   {
+      "Compound":"pippo 2",
+      "Mechanism of action":"meccanismo 2",
+      "Indication":"Indicazione 2",
+      "Development Stage":"2",
+      "Clinical trials":"<a href=\"https://www.clinicaltrials.com\">Clinical Trials</a>",
+      "Read More":"<h1>Titolo popup</h1><p>Lorem Ipsum Lorem Ipsum Lorem Ipsum</p><p><img src=\"/uk-flag.jpg\" /> <a href=\"http://www.google.it\">Read More</a></p>"
+   },
+   {
+      "Compound":"pippo 3",
+      "Mechanism of action":"meccanismo 3",
+      "Indication":"Indicazione 3",
+      "Development Stage":"3",
+      "Clinical trials":"<a href=\"https://www.clinicaltrials.com\">Clinical Trials</a>",
+      "Read More":"<h1>Titolo popup</h1><p>Lorem Ipsum Lorem Ipsum Lorem Ipsum</p><p><img src=\"/uk-flag.jpg\" /> <a href=\"http://www.google.it\">Read More</a></p>"
+   },
+   {
+      "Compound":"pippo 4",
+      "Mechanism of action":"meccanismo 4",
+      "Indication":"Indicazione 4",
+      "Development Stage":"4",
+      "Clinical trials":"<a href=\"https://www.clinicaltrials.com\">Clinical Trials</a>",
+      "Read More":"<h1>Titolo popup</h1><p>Lorem Ipsum Lorem Ipsum Lorem Ipsum</p><p><img src=\"/uk-flag.jpg\" /> <a href=\"http://www.google.it\">Read More</a></p>"
+   },
+   {
+      "Compound":"pippo",
+      "Mechanism of action":"meccanismo aaa",
+      "Indication":"Indicazione 1",
+      "Development Stage":"5",
+      "Clinical trials":"<a href=\"https://www.clinicaltrials.com\">Clinical Trials</a>",
+      "Read More":"<h1>Titolo popup</h1><p>Lorem Ipsum Lorem Ipsum Lorem Ipsum</p><p><img src=\"/uk-flag.jpg\" /> <a href=\"http://www.google.it\">Read More</a></p>"
+   },
+   {
+      "Compound":"pippo 2",
+      "Mechanism of action":"meccanismo bbb",
+      "Indication":"Indicazione 2",
+      "Development Stage":"5",
+      "Clinical trials":"<a href=\"https://www.clinicaltrials.com\">Clinical Trials</a>",
+      "Read More":"<h1>Titolo popup</h1><p>Lorem Ipsum Lorem Ipsum Lorem Ipsum</p><p><img src=\"/uk-flag.jpg\" /> <a href=\"http://www.google.it\">Read More</a></p>"
+   },
+   {
+      "Compound":"pippo 3",
+      "Mechanism of action":"meccanismo ccc",
+      "Indication":"Indicazione 3",
+      "Development Stage":"6",
+      "Clinical trials":"<a href=\"https://www.clinicaltrials.com\">Clinical Trials</a>",
+      "Read More":"<h1>Titolo popup</h1><p>Lorem Ipsum Lorem Ipsum Lorem Ipsum</p><p><img src=\"/uk-flag.jpg\" /> <a href=\"http://www.google.it\">Read More</a></p>"
+   },
+   {
+      "Compound":"pippo 4",
+      "Mechanism of action":"meccanismo ddd",
+      "Indication":"Indicazione 4",
+      "Development Stage":"7",
+      "Clinical trials":"<a href=\"https://www.clinicaltrials.com\">Clinical Trials</a>",
+      "Read More":"<h1>Titolo popup</h1><p>Lorem Ipsum Lorem Ipsum Lorem Ipsum</p><p><img src=\"/uk-flag.jpg\" /> <a href=\"http://www.google.it\">Read More</a></p>"
+   },
+   {
+      "Compound":"pippo",
+      "Mechanism of action":"meccanismo eee",
+      "Indication":"Indicazione 1",
+      "Development Stage":"1",
+      "Clinical trials":"<a href=\"https://www.clinicaltrials.com\">Clinical Trials</a>",
+      "Read More":"<h1>Titolo popup</h1><p>Lorem Ipsum Lorem Ipsum Lorem Ipsum</p><p><img src=\"/uk-flag.jpg\" /> <a href=\"http://www.google.it\">Read More</a></p>"
+   },
+   {
+      "Compound":"pippo 2",
+      "Mechanism of action":"meccanismo fff",
+      "Indication":"Indicazione 2",
+      "Development Stage":"2",
+      "Clinical trials":"<a href=\"https://www.clinicaltrials.com\">Clinical Trials</a>",
+      "Read More":"<h1>Titolo popup</h1><p>Lorem Ipsum Lorem Ipsum Lorem Ipsum</p><p><img src=\"/uk-flag.jpg\" /> <a href=\"http://www.google.it\">Read More</a></p>"
+   },
+   {
+      "Compound":"pippo 3",
+      "Mechanism of action":"meccanismo ggg",
+      "Indication":"Indicazione 3",
+      "Development Stage":"3",
+      "Clinical trials":"<a href=\"https://www.clinicaltrials.com\">Clinical Trials</a>",
+      "Read More":"<h1>Titolo popup</h1><p>Lorem Ipsum Lorem Ipsum Lorem Ipsum</p><p><img src=\"/uk-flag.jpg\" /> <a href=\"http://www.google.it\">Read More</a></p>"
+   },
+   {
+      "Compound":"pippo 4",
+      "Mechanism of action":"meccanismo hhh",
+      "Indication":"Indicazione 4",
+      "Development Stage":"4",
+      "Clinical trials":"<a href=\"https://www.clinicaltrials.com\">Clinical Trials</a>",
+      "Read More":"<h1>Titolo popup</h1><p>Lorem Ipsum Lorem Ipsum Lorem Ipsum</p><p><img src=\"/uk-flag.jpg\" /> <a href=\"http://www.google.it\">Read More</a></p>"
+   }
+]
