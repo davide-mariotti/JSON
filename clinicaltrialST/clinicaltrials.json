@@ -1,6 +1,6 @@
 [
  {
-  "compound": "tagraxofups",
+  "compound": "AAA",
   "indication": "blastic plasmacytoid dendritic cell neoplasm",
   "mechanismofaction": "Targeted Biologic (CD123)",
   "enablestage1": "true",
@@ -9,7 +9,7 @@
   "enablestage4": "true",
   "enablestage5": "true",
   "enablestage6": "true",
-  "enablestage7": 60,
+  "enablestage7": "false",
   "status": "open",
   "clinicaltrails": "https:\/\/www.clinicaltrials.com",
   "targetclinicaltrials": "_blank",
@@ -18,7 +18,7 @@
   "description": "&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet dolor vel enim blandit tristique. Quisque blandit, nulla vel placerat elementum, mi nisl pulvinar tortor, non bibendum odio ipsum eu odio.&lt;\/p&gt;"
  },
  {
-  "compound": "tagraxofups",
+  "compound": "BBB",
   "indication": "blastic plasmacytoid dendritic cell neoplasm",
   "mechanismofaction": "Targeted Biologic (CD123)",
   "enablestage1": "true",
@@ -27,7 +27,7 @@
   "enablestage4": "true",
   "enablestage5": "true",
   "enablestage6": "true",
-  "enablestage7": 60,
+  "enablestage7": "false",
   "status": "open",
   "clinicaltrails": "https:\/\/www.clinicaltrials.com",
   "targetclinicaltrials": "_blank",
@@ -36,7 +36,7 @@
   "description": "&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet dolor vel enim blandit tristique. Quisque blandit, nulla vel placerat elementum, mi nisl pulvinar tortor, non bibendum odio ipsum eu odio.&lt;\/p&gt;"
  },
  {
-  "compound": "tagraxofups",
+  "compound": "BBB",
   "indication": "acute myeloid leukemia",
   "mechanismofaction": "Targeted biologic (CD123)",
   "enablestage1": "true",
@@ -45,7 +45,7 @@
   "enablestage4": "false",
   "enablestage5": "false",
   "enablestage6": "false",
-  "enablestage7": 30,
+  "enablestage7": "false",
   "status": "open",
   "clinicaltrails": "https:\/\/www.clinicaltrials.com",
   "targetclinicaltrials": "_blank",
@@ -54,7 +54,7 @@
   "description": "&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet dolor vel enim blandit tristique. Quisque blandit, nulla vel placerat elementum, mi nisl pulvinar tortor, non bibendum odio ipsum eu odio.&lt;\/p&gt;"
  },
  {
-  "compound": "tagraxofups",
+  "compound": "CCC",
   "indication": "chronic myelomonocytic leukemia",
   "mechanismofaction": "Targeted Biologic (CD123)",
   "enablestage1": "true",
@@ -63,7 +63,7 @@
   "enablestage4": "false",
   "enablestage5": "false",
   "enablestage6": "false",
-  "enablestage7": 30,
+  "enablestage7": "false",
   "status": "open",
   "clinicaltrails": "https:\/\/www.clinicaltrials.com",
   "targetclinicaltrials": "_blank",
@@ -72,7 +72,7 @@
   "description": "&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet dolor vel enim blandit tristique. Quisque blandit, nulla vel placerat elementum, mi nisl pulvinar tortor, non bibendum odio ipsum eu odio.&lt;\/p&gt;"
  },
  {
-  "compound": "tagraxofups",
+  "compound": "CCC",
   "indication": "myelofibrosis",
   "mechanismofaction": "Targeted Biologic (CD123)",
   "enablestage1": "true",
@@ -81,7 +81,7 @@
   "enablestage4": "false",
   "enablestage5": "false",
   "enablestage6": "false",
-  "enablestage7": 30,
+  "enablestage7": "false",
   "status": "open",
   "clinicaltrails": "https:\/\/www.clinicaltrials.com",
   "targetclinicaltrials": "_blank",
@@ -90,25 +90,7 @@
   "description": "&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet dolor vel enim blandit tristique. Quisque blandit, nulla vel placerat elementum, mi nisl pulvinar tortor, non bibendum odio ipsum eu odio.&lt;\/p&gt;"
  },
  {
-  "compound": "elacestrant",
-  "indication": "breast cancer",
-  "mechanismofaction": "SERD (ER)",
-  "enablestage1": "true",
-  "enablestage2": "true",
-  "enablestage3": "true",
-  "enablestage4": "true",
-  "enablestage5": "false",
-  "enablestage6": "false",
-  "enablestage7": 40,
-  "status": "open",
-  "clinicaltrails": "https:\/\/www.clinicaltrials.com",
-  "targetclinicaltrials": "_blank",
-  "labelclinicaltrials": "Clinical Trials",
-  "readmore": "&lt;p&gt;Elacestrant is a selective estrogen receptor degrader (SERD) evaluated for potential use as a once daily oral treatment in patients with estrogen receptor positive (ER+)\/HER2- advanced or metastatic breast cancer. Studies completed to date, including the positive results from the EMERALD phase 3 trial, indicate that the compound has the potential for use as a single agent or in combination with other therapies for the treatment of breast cancer. Indeed, Elacestrant has been the first oral SERD to show positive results in a pivotal, phase III trial as a monotherapy versus standard of care for the treatment of ER+\/ HER2- advanced or metastatic breast cancer.\n&lt;\/p&gt;\n\n&lt;table class=\"genericInfo\"&gt;\n    &lt;tbody&gt;\n        &lt;tr&gt;\n            &lt;td&gt;&lt;img src=\"\/Portals\/31\/Images\/innovation_research\/pipeline\/flag_USA.svg\" alt=\"\" \/&gt;&lt;\/td&gt;\n            &lt;td&gt;Fast Track Designation&lt;\/td&gt;\n        &lt;\/tr&gt;\n    &lt;\/tbody&gt;\n&lt;\/table&gt;&lt;br \/&gt;",
-  "description": "&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet dolor vel enim blandit tristique. Quisque blandit, nulla vel placerat elementum, mi nisl pulvinar tortor, non bibendum odio ipsum eu odio.&lt;\/p&gt;"
- },
- {
-  "compound": "paracinostat",
+  "compound": "CCC",
   "indication": "acute myeloid leukemia",
   "mechanismofaction": "SME (HDACi)",
   "enablestage1": "true",
@@ -117,7 +99,7 @@
   "enablestage4": "true",
   "enablestage5": "false",
   "enablestage6": "false",
-  "enablestage7": 40,
+  "enablestage7": "false",
   "status": "open",
   "clinicaltrails": "https:\/\/www.clinicaltrials.com",
   "targetclinicaltrials": "_blank",
@@ -125,7 +107,7 @@
   "description": "&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet dolor vel enim blandit tristique. Quisque blandit, nulla vel placerat elementum, mi nisl pulvinar tortor, non bibendum odio ipsum eu odio.&lt;\/p&gt;"
  },
  {
-  "compound": "paracinostat",
+  "compound": "DDD",
   "indication": "myelodysplastic syndrome",
   "mechanismofaction": "SME (HDACi)",
   "enablestage1": "true",
@@ -134,7 +116,7 @@
   "enablestage4": "false",
   "enablestage5": "false",
   "enablestage6": "false",
-  "enablestage7": 30,
+  "enablestage7": "false",
   "status": "open",
   "clinicaltrails": "https:\/\/www.clinicaltrials.com",
   "targetclinicaltrials": "_blank",
@@ -143,7 +125,7 @@
   "description": "&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet dolor vel enim blandit tristique. Quisque blandit, nulla vel placerat elementum, mi nisl pulvinar tortor, non bibendum odio ipsum eu odio.&lt;\/p&gt;"
  },
  {
-  "compound": "men1703",
+  "compound": "DDD",
   "indication": "acute myeloid leukemia",
   "mechanismofaction": "SME (PIM\/FLT3i)",
   "enablestage1": "true",
@@ -152,7 +134,7 @@
   "enablestage4": "false",
   "enablestage5": "false",
   "enablestage6": "false",
-  "enablestage7": 30,
+  "enablestage7": "false",
   "status": "open",
   "clinicaltrails": "https:\/\/www.clinicaltrials.com",
   "targetclinicaltrials": "_blank",
@@ -161,7 +143,7 @@
   "description": "&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet dolor vel enim blandit tristique. Quisque blandit, nulla vel placerat elementum, mi nisl pulvinar tortor, non bibendum odio ipsum eu odio.&lt;\/p&gt;"
  },
  {
-  "compound": "men1611",
+  "compound": "DDD",
   "indication": "breast cancer",
   "mechanismofaction": "SME (PI3Ki)",
   "enablestage1": "true",
@@ -170,7 +152,7 @@
   "enablestage4": "false",
   "enablestage5": "false",
   "enablestage6": "false",
-  "enablestage7": 25,
+  "enablestage7": "false",
   "status": "open",
   "clinicaltrails": "https:\/\/www.clinicaltrials.com",
   "targetclinicaltrials": "_blank",
@@ -179,7 +161,7 @@
   "description": "&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet dolor vel enim blandit tristique. Quisque blandit, nulla vel placerat elementum, mi nisl pulvinar tortor, non bibendum odio ipsum eu odio.&lt;\/p&gt;"
  },
  {
-  "compound": "men1611",
+  "compound": "DDD",
   "indication": "colorectal cancer",
   "mechanismofaction": "SME (PI3Ki)",
   "enablestage1": "true",
@@ -188,7 +170,7 @@
   "enablestage4": "false",
   "enablestage5": "false",
   "enablestage6": "false",
-  "enablestage7": 25,
+  "enablestage7": "false",
   "status": "open",
   "clinicaltrails": "https:\/\/www.clinicaltrials.com",
   "targetclinicaltrials": "_blank",
@@ -197,7 +179,7 @@
   "description": "&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet dolor vel enim blandit tristique. Quisque blandit, nulla vel placerat elementum, mi nisl pulvinar tortor, non bibendum odio ipsum eu odio.&lt;\/p&gt;"
  },
  {
-  "compound": "men1112",
+  "compound": "EEE",
   "indication": "acute myeloid leukemia",
   "mechanismofaction": "mAB (Anti-CD157)",
   "enablestage1": "true",
@@ -206,7 +188,7 @@
   "enablestage4": "false",
   "enablestage5": "false",
   "enablestage6": "false",
-  "enablestage7": 25,
+  "enablestage7": "false",
   "status": "open",
   "clinicaltrails": "https:\/\/www.clinicaltrials.com",
   "targetclinicaltrials": "_blank",
@@ -215,7 +197,7 @@
   "description": "&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet dolor vel enim blandit tristique. Quisque blandit, nulla vel placerat elementum, mi nisl pulvinar tortor, non bibendum odio ipsum eu odio.&lt;\/p&gt;"
  },
  {
-  "compound": "men1309",
+  "compound": "EEE",
   "indication": "solid tumors",
   "mechanismofaction": "ADC (Anti-CD205)",
   "enablestage1": "true",
@@ -224,7 +206,7 @@
   "enablestage4": "false",
   "enablestage5": "false",
   "enablestage6": "false",
-  "enablestage7": 25,
+  "enablestage7": "false",
   "status": "open",
   "clinicaltrails": "https:\/\/www.clinicaltrials.com",
   "targetclinicaltrials": "_blank",
@@ -233,7 +215,7 @@
   "description": "&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet dolor vel enim blandit tristique. Quisque blandit, nulla vel placerat elementum, mi nisl pulvinar tortor, non bibendum odio ipsum eu odio.&lt;\/p&gt;"
  },
  {
-  "compound": "Felezonexor",
+  "compound": "EEE",
   "indication": "solid tumors",
   "mechanismofaction": "SME (XP01i)",
   "enablestage1": "true",
@@ -242,7 +224,7 @@
   "enablestage4": "false",
   "enablestage5": "false",
   "enablestage6": "false",
-  "enablestage7": 25,
+  "enablestage7": "false",
   "status": "open",
   "clinicaltrails": "https:\/\/www.clinicaltrials.com",
   "targetclinicaltrials": "_blank",
@@ -251,7 +233,7 @@
   "description": "&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet dolor vel enim blandit tristique. Quisque blandit, nulla vel placerat elementum, mi nisl pulvinar tortor, non bibendum odio ipsum eu odio.&lt;\/p&gt;"
  },
  {
-  "compound": "sl-901",
+  "compound": "EEE",
   "indication": "solid tumors",
   "mechanismofaction": "SME (PI3Ki)",
   "enablestage1": "true",
@@ -260,7 +242,7 @@
   "enablestage4": "false",
   "enablestage5": "false",
   "enablestage6": "false",
-  "enablestage7": 20,
+  "enablestage7": "false",
   "status": "open",
   "clinicaltrails": "https:\/\/www.clinicaltrials.com",
   "targetclinicaltrials": "_blank",
@@ -269,7 +251,7 @@
   "description": "&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet dolor vel enim blandit tristique. Quisque blandit, nulla vel placerat elementum, mi nisl pulvinar tortor, non bibendum odio ipsum eu odio.&lt;\/p&gt;"
  },
  {
-  "compound": "sl-1001",
+  "compound": "FFF",
   "indication": "solid tumors",
   "mechanismofaction": "SME (RETi)",
   "enablestage1": "true",
@@ -278,7 +260,7 @@
   "enablestage4": "false",
   "enablestage5": "false",
   "enablestage6": "false",
-  "enablestage7": 10,
+  "enablestage7": "false",
   "status": "open",
   "clinicaltrails": "https:\/\/www.clinicaltrials.com",
   "targetclinicaltrials": "_blank",
@@ -287,7 +269,7 @@
   "description": "&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet dolor vel enim blandit tristique. Quisque blandit, nulla vel placerat elementum, mi nisl pulvinar tortor, non bibendum odio ipsum eu odio.&lt;\/p&gt;"
  },
  {
-  "compound": "SL-701",
+  "compound": "FFF",
   "indication": "Glioblastoma",
   "mechanismofaction": "Immunotherapy (IL-13Rα2, EphA2, Survivin)",
   "enablestage1": "true",
@@ -296,7 +278,7 @@
   "enablestage4": "false",
   "enablestage5": "false",
   "enablestage6": "false",
-  "enablestage7": 30,
+  "enablestage7": "false",
   "status": "open",
   "clinicaltrails": "https:\/\/www.clinicaltrials.com",
   "targetclinicaltrials": "_blank",
@@ -305,25 +287,7 @@
   "description": "&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet dolor vel enim blandit tristique. Quisque blandit, nulla vel placerat elementum, mi nisl pulvinar tortor, non bibendum odio ipsum eu odio.&lt;\/p&gt;"
  },
  {
-  "compound": "elacestrant",
-  "indication": "breast cancer",
-  "mechanismofaction": "SERD (ER)",
-  "enablestage1": "true",
-  "enablestage2": "true",
-  "enablestage3": "true",
-  "enablestage4": "true",
-  "enablestage5": "true",
-  "enablestage6": "false",
-  "enablestage7": 50,
-  "status": "open",
-  "clinicaltrails": "https:\/\/www.clinicaltrials.com",
-  "targetclinicaltrials": "_blank",
-  "labelclinicaltrials": "Clinical Trials",
-  "readmore": "&lt;p&gt;Elacestrant is a selective estrogen receptor degrader (SERD) evaluated for potential use as a once daily oral treatment in patients with estrogen receptor positive (ER+)\/HER2- advanced or metastatic breast cancer. Studies completed to date, including the positive results from the EMERALD phase 3 trial, indicate that the compound has the potential for use as a single agent or in combination with other therapies for the treatment of breast cancer. Indeed, Elacestrant has been the first oral SERD to show positive results in a pivotal, phase III trial as a monotherapy versus standard of care for the treatment of ER+\/ HER2- advanced or metastatic breast cancer.\n&lt;\/p&gt;\n\n&lt;table class=\"genericInfo\"&gt;\n    &lt;tbody&gt;\n        &lt;tr&gt;\n            &lt;td&gt;&lt;img src=\"\/Portals\/31\/Images\/innovation_research\/pipeline\/flag_USA.svg\" alt=\"\" \/&gt;&lt;\/td&gt;\n            &lt;td&gt;Fast Track Designation&lt;\/td&gt;\n        &lt;\/tr&gt;\n    &lt;\/tbody&gt;\n&lt;\/table&gt;&lt;br \/&gt;",
-  "description": "&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet dolor vel enim blandit tristique. Quisque blandit, nulla vel placerat elementum, mi nisl pulvinar tortor, non bibendum odio ipsum eu odio.&lt;\/p&gt;"
- },
- {
-  "compound": "men1611",
+  "compound": "FFF",
   "indication": "colorectal cancer",
   "mechanismofaction": "SME (PI3Ki)",
   "enablestage1": "true",
@@ -332,7 +296,7 @@
   "enablestage4": "false",
   "enablestage5": "false",
   "enablestage6": "false",
-  "enablestage7": 30,
+  "enablestage7": "false",
   "status": "open",
   "clinicaltrails": "https:\/\/www.clinicaltrials.com",
   "targetclinicaltrials": "_blank",
@@ -341,7 +305,7 @@
   "description": "&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet dolor vel enim blandit tristique. Quisque blandit, nulla vel placerat elementum, mi nisl pulvinar tortor, non bibendum odio ipsum eu odio.&lt;\/p&gt;"
  },
  {
-  "compound": "men1611",
+  "compound": "GGG",
   "indication": "breast cancer",
   "mechanismofaction": "SME (PI3Ki)",
   "enablestage1": "true",
@@ -350,7 +314,7 @@
   "enablestage4": "false",
   "enablestage5": "false",
   "enablestage6": "false",
-  "enablestage7": 25,
+  "enablestage7": "false",
   "status": "open",
   "clinicaltrails": "https:\/\/www.clinicaltrials.com",
   "targetclinicaltrials": "_blank",
@@ -359,7 +323,7 @@
   "description": "&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet dolor vel enim blandit tristique. Quisque blandit, nulla vel placerat elementum, mi nisl pulvinar tortor, non bibendum odio ipsum eu odio.&lt;\/p&gt;"
  },
  {
-  "compound": "elacestrant",
+  "compound": "GGG",
   "indication": "breast cancer",
   "mechanismofaction": "SERD (ER)",
   "enablestage1": "true",
@@ -368,7 +332,7 @@
   "enablestage4": "true",
   "enablestage5": "true",
   "enablestage6": "false",
-  "enablestage7": 50,
+  "enablestage7": "false",
   "status": "open",
   "clinicaltrails": "https:\/\/www.clinicaltrials.com",
   "targetclinicaltrials": "_blank",
@@ -377,7 +341,7 @@
   "description": "&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet dolor vel enim blandit tristique. Quisque blandit, nulla vel placerat elementum, mi nisl pulvinar tortor, non bibendum odio ipsum eu odio.&lt;\/p&gt;"
  },
  {
-  "compound": "elacestrant",
+  "compound": "GGG",
   "indication": "breast cancer",
   "mechanismofaction": "SERD (ER)",
   "enablestage1": "true",
@@ -386,7 +350,7 @@
   "enablestage4": "true",
   "enablestage5": "true",
   "enablestage6": "false",
-  "enablestage7": 50,
+  "enablestage7": "false",
   "status": "open",
   "clinicaltrails": "https:\/\/www.clinicaltrials.com",
   "targetclinicaltrials": "_blank",
@@ -395,7 +359,7 @@
   "description": "&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet dolor vel enim blandit tristique. Quisque blandit, nulla vel placerat elementum, mi nisl pulvinar tortor, non bibendum odio ipsum eu odio.&lt;\/p&gt;"
  },
  {
-  "compound": "SL-701",
+  "compound": "HHH",
   "indication": "Glioblastoma",
   "mechanismofaction": "Immunotherapy (IL-13Rα2, EphA2, Survivin)",
   "enablestage1": "true",
@@ -404,7 +368,7 @@
   "enablestage4": "false",
   "enablestage5": "false",
   "enablestage6": "false",
-  "enablestage7": 30,
+  "enablestage7": "false",
   "status": "open",
   "clinicaltrails": "https:\/\/www.clinicaltrials.com",
   "targetclinicaltrials": "_blank",
@@ -413,7 +377,7 @@
   "description": "&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet dolor vel enim blandit tristique. Quisque blandit, nulla vel placerat elementum, mi nisl pulvinar tortor, non bibendum odio ipsum eu odio.&lt;\/p&gt;"
  },
  {
-  "compound": "tagraxofups",
+  "compound": "HHH",
   "indication": "acute myeloid leukemia",
   "mechanismofaction": "Targeted Biologic (CD123)",
   "enablestage1": "true",
@@ -422,7 +386,7 @@
   "enablestage4": "false",
   "enablestage5": "false",
   "enablestage6": "false",
-  "enablestage7": 30,
+  "enablestage7": "false",
   "status": "open",
   "clinicaltrails": "https:\/\/www.clinicaltrials.com",
   "targetclinicaltrials": "_blank",
@@ -431,7 +395,7 @@
   "description": "&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet dolor vel enim blandit tristique. Quisque blandit, nulla vel placerat elementum, mi nisl pulvinar tortor, non bibendum odio ipsum eu odio.&lt;\/p&gt;"
  },
  {
-  "compound": "tagraxofups",
+  "compound": "III",
   "indication": "chronic myelomonocytic leukemia",
   "mechanismofaction": "Targeted Biologic (CD123)",
   "enablestage1": "true",
@@ -440,7 +404,7 @@
   "enablestage4": "false",
   "enablestage5": "false",
   "enablestage6": "false",
-  "enablestage7": 30,
+  "enablestage7": "false",
   "status": "open",
   "clinicaltrails": "https:\/\/www.clinicaltrials.com",
   "targetclinicaltrials": "_blank",
@@ -449,7 +413,7 @@
   "description": "&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet dolor vel enim blandit tristique. Quisque blandit, nulla vel placerat elementum, mi nisl pulvinar tortor, non bibendum odio ipsum eu odio.&lt;\/p&gt;"
  },
  {
-  "compound": "tagraxofups",
+  "compound": "III",
   "indication": "acute myeloid leukemia",
   "mechanismofaction": "Targeted Biologic (CD123)",
   "enablestage1": "true",
@@ -458,7 +422,7 @@
   "enablestage4": "false",
   "enablestage5": "false",
   "enablestage6": "false",
-  "enablestage7": 30,
+  "enablestage7": "false",
   "status": "open",
   "clinicaltrails": "https:\/\/www.clinicaltrials.com",
   "targetclinicaltrials": "_blank",
@@ -467,7 +431,43 @@
   "description": "&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet dolor vel enim blandit tristique. Quisque blandit, nulla vel placerat elementum, mi nisl pulvinar tortor, non bibendum odio ipsum eu odio.&lt;\/p&gt;"
  },
  {
-  "compound": "elacestrant",
+  "compound": "LLL",
+  "indication": "breast cancer",
+  "mechanismofaction": "SERD (ER)",
+  "enablestage1": "true",
+  "enablestage2": "true",
+  "enablestage3": "true",
+  "enablestage4": "true",
+  "enablestage5": "false",
+  "enablestage6": "false",
+  "enablestage7": "false",
+  "status": "open",
+  "clinicaltrails": "https:\/\/www.clinicaltrials.com",
+  "targetclinicaltrials": "_blank",
+  "labelclinicaltrials": "Clinical Trials",
+  "readmore": "&lt;p&gt;Elacestrant is a selective estrogen receptor degrader (SERD) evaluated for potential use as a once daily oral treatment in patients with estrogen receptor positive (ER+)\/HER2- advanced or metastatic breast cancer. Studies completed to date, including the positive results from the EMERALD phase 3 trial, indicate that the compound has the potential for use as a single agent or in combination with other therapies for the treatment of breast cancer. Indeed, Elacestrant has been the first oral SERD to show positive results in a pivotal, phase III trial as a monotherapy versus standard of care for the treatment of ER+\/ HER2- advanced or metastatic breast cancer.\n&lt;\/p&gt;\n\n&lt;table class=\"genericInfo\"&gt;\n    &lt;tbody&gt;\n        &lt;tr&gt;\n            &lt;td&gt;&lt;img src=\"\/Portals\/31\/Images\/innovation_research\/pipeline\/flag_USA.svg\" alt=\"\" \/&gt;&lt;\/td&gt;\n            &lt;td&gt;Fast Track Designation&lt;\/td&gt;\n        &lt;\/tr&gt;\n    &lt;\/tbody&gt;\n&lt;\/table&gt;&lt;br \/&gt;",
+  "description": "&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet dolor vel enim blandit tristique. Quisque blandit, nulla vel placerat elementum, mi nisl pulvinar tortor, non bibendum odio ipsum eu odio.&lt;\/p&gt;"
+ },
+ {
+  "compound": "LLL",
+  "indication": "breast cancer",
+  "mechanismofaction": "SERD (ER)",
+  "enablestage1": "true",
+  "enablestage2": "true",
+  "enablestage3": "true",
+  "enablestage4": "true",
+  "enablestage5": "true",
+  "enablestage6": "false",
+  "enablestage7": "false",
+  "status": "open",
+  "clinicaltrails": "https:\/\/www.clinicaltrials.com",
+  "targetclinicaltrials": "_blank",
+  "labelclinicaltrials": "Clinical Trials",
+  "readmore": "&lt;p&gt;Elacestrant is a selective estrogen receptor degrader (SERD) evaluated for potential use as a once daily oral treatment in patients with estrogen receptor positive (ER+)\/HER2- advanced or metastatic breast cancer. Studies completed to date, including the positive results from the EMERALD phase 3 trial, indicate that the compound has the potential for use as a single agent or in combination with other therapies for the treatment of breast cancer. Indeed, Elacestrant has been the first oral SERD to show positive results in a pivotal, phase III trial as a monotherapy versus standard of care for the treatment of ER+\/ HER2- advanced or metastatic breast cancer.\n&lt;\/p&gt;\n\n&lt;table class=\"genericInfo\"&gt;\n    &lt;tbody&gt;\n        &lt;tr&gt;\n            &lt;td&gt;&lt;img src=\"\/Portals\/31\/Images\/innovation_research\/pipeline\/flag_USA.svg\" alt=\"\" \/&gt;&lt;\/td&gt;\n            &lt;td&gt;Fast Track Designation&lt;\/td&gt;\n        &lt;\/tr&gt;\n    &lt;\/tbody&gt;\n&lt;\/table&gt;&lt;br \/&gt;",
+  "description": "&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet dolor vel enim blandit tristique. Quisque blandit, nulla vel placerat elementum, mi nisl pulvinar tortor, non bibendum odio ipsum eu odio.&lt;\/p&gt;"
+ },
+ {
+  "compound": "LLL",
   "indication": "Breast cancer Monotherapy",
   "mechanismofaction": "SERD (ER)",
   "enablestage1": "true",
@@ -476,7 +476,7 @@
   "enablestage4": "true",
   "enablestage5": "true",
   "enablestage6": "false",
-  "enablestage7": 50,
+  "enablestage7": "false",
   "status": "open",
   "clinicaltrails": "https:\/\/www.clinicaltrials.com",
   "targetclinicaltrials": "_blank",
@@ -485,7 +485,7 @@
   "description": "&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet dolor vel enim blandit tristique. Quisque blandit, nulla vel placerat elementum, mi nisl pulvinar tortor, non bibendum odio ipsum eu odio.&lt;\/p&gt;"
  },
  {
-  "compound": "elacestrant",
+  "compound": "LLL",
   "indication": "Breast cancer Combination&nbsp;",
   "mechanismofaction": "SERD (ER)",
   "enablestage1": "true",
@@ -494,7 +494,7 @@
   "enablestage4": "false",
   "enablestage5": "false",
   "enablestage6": "false",
-  "enablestage7": 30,
+  "enablestage7": "false",
   "status": "open",
   "clinicaltrails": "https:\/\/www.clinicaltrials.com",
   "targetclinicaltrials": "_blank",
@@ -503,7 +503,7 @@
   "description": "&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet dolor vel enim blandit tristique. Quisque blandit, nulla vel placerat elementum, mi nisl pulvinar tortor, non bibendum odio ipsum eu odio.&lt;\/p&gt;"
  },
  {
-  "compound": "elacestrant",
+  "compound": "MMM",
   "indication": "Breast cancer Combination&nbsp;",
   "mechanismofaction": "SERD (ER)",
   "enablestage1": "true",
@@ -512,7 +512,7 @@
   "enablestage4": "false",
   "enablestage5": "false",
   "enablestage6": "false",
-  "enablestage7": 30,
+  "enablestage7": "false",
   "status": "open",
   "clinicaltrails": "https:\/\/www.clinicaltrials.com",
   "targetclinicaltrials": "_blank",
@@ -521,7 +521,7 @@
   "description": "&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet dolor vel enim blandit tristique. Quisque blandit, nulla vel placerat elementum, mi nisl pulvinar tortor, non bibendum odio ipsum eu odio.&lt;\/p&gt;"
  },
  {
-  "compound": "elacestrant",
+  "compound": "MMM",
   "indication": "Breast cancer Combination&nbsp;",
   "mechanismofaction": "SERD (ER)",
   "enablestage1": "true",
@@ -530,7 +530,7 @@
   "enablestage4": "false",
   "enablestage5": "false",
   "enablestage6": "false",
-  "enablestage7": 30,
+  "enablestage7": "false",
   "status": "open",
   "clinicaltrails": "https:\/\/www.clinicaltrials.com",
   "targetclinicaltrials": "_blank",
@@ -539,7 +539,7 @@
   "description": "&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet dolor vel enim blandit tristique. Quisque blandit, nulla vel placerat elementum, mi nisl pulvinar tortor, non bibendum odio ipsum eu odio.&lt;\/p&gt;"
  },
  {
-  "compound": "elacestrant",
+  "compound": "MMM",
   "indication": "Breast cancer Combination&nbsp;",
   "mechanismofaction": "SERD (ER)",
   "enablestage1": "true",
@@ -548,7 +548,7 @@
   "enablestage4": "false",
   "enablestage5": "false",
   "enablestage6": "false",
-  "enablestage7": 30,
+  "enablestage7": "false",
   "status": "open",
   "clinicaltrails": "https:\/\/www.clinicaltrials.com",
   "targetclinicaltrials": "_blank",
@@ -557,7 +557,7 @@
   "description": "&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet dolor vel enim blandit tristique. Quisque blandit, nulla vel placerat elementum, mi nisl pulvinar tortor, non bibendum odio ipsum eu odio.&lt;\/p&gt;"
  },
  {
-  "compound": "elacestrant",
+  "compound": "NNN",
   "indication": "Breast cancer Combination&nbsp;",
   "mechanismofaction": "SERD (ER)",
   "enablestage1": "true",
@@ -566,7 +566,7 @@
   "enablestage4": "false",
   "enablestage5": "false",
   "enablestage6": "false",
-  "enablestage7": 30,
+  "enablestage7": "false",
   "status": "open",
   "clinicaltrails": "https:\/\/www.clinicaltrials.com",
   "targetclinicaltrials": "_blank",
@@ -575,7 +575,7 @@
   "description": "&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet dolor vel enim blandit tristique. Quisque blandit, nulla vel placerat elementum, mi nisl pulvinar tortor, non bibendum odio ipsum eu odio.&lt;\/p&gt;"
  },
  {
-  "compound": "elacestrant",
+  "compound": "NNN",
   "indication": "Breast cancer Monotherapy",
   "mechanismofaction": "SERD (ER)",
   "enablestage1": "true",
@@ -584,7 +584,7 @@
   "enablestage4": "true",
   "enablestage5": "true",
   "enablestage6": "true",
-  "enablestage7": 60,
+  "enablestage7": "false",
   "status": "open",
   "clinicaltrails": "https:\/\/www.clinicaltrials.com",
   "targetclinicaltrials": "_blank",
@@ -593,25 +593,7 @@
   "description": "&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet dolor vel enim blandit tristique. Quisque blandit, nulla vel placerat elementum, mi nisl pulvinar tortor, non bibendum odio ipsum eu odio.&lt;\/p&gt;"
  },
  {
-  "compound": "elacestrant",
-  "indication": "Breast cancer Monotherapy",
-  "mechanismofaction": "SERD (ER)",
-  "enablestage1": "true",
-  "enablestage2": "true",
-  "enablestage3": "true",
-  "enablestage4": "true",
-  "enablestage5": "true",
-  "enablestage6": "true",
-  "enablestage7": 60,
-  "status": "open",
-  "clinicaltrails": "https:\/\/www.clinicaltrials.com",
-  "targetclinicaltrials": "_blank",
-  "labelclinicaltrials": "Clinical Trials",
-  "readmore": "&lt;p&gt;Elacestrant is a selective estrogen receptor degrader (SERD) evaluated for potential use as a once daily oral treatment in patients with estrogen receptor positive (ER+)\/HER2- advanced or metastatic breast cancer. Studies completed to date, including the positive results from the EMERALD phase 3 trial, indicate that the compound has the potential for use as a single agent or in combination with other therapies for the treatment of breast cancer. Indeed, Elacestrant has been the first oral SERD to show positive results in a pivotal, phase III trial as a monotherapy versus standard of care for the treatment of ER+\/ HER2- advanced or metastatic breast cancer.&nbsp;&lt;\/p&gt;\n\n&lt;p&gt;ORSERDU was approved by the U.S. FDA in 2023 for the treatment of postmenopausal women or adult men, with ER-positive, HER2-negative, ESR1-mutated advanced or metastatic breast cancer with disease progression following at least one line of endocrine therapy.    \n&lt;\/p&gt;\n\n&lt;p&gt;\n&lt;a href=\"https:\/\/drive.google.com\/file\/d\/1aE_1XYQqLKDZZZQIOMqU-a-VhQUGIT8w\/view\"&gt;Review Prescribing Information&lt;\/a&gt;  &lt;\/p&gt;",
-  "description": "&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet dolor vel enim blandit tristique. Quisque blandit, nulla vel placerat elementum, mi nisl pulvinar tortor, non bibendum odio ipsum eu odio.&lt;\/p&gt;"
- },
- {
-  "compound": "NEXPOVIO® (selinexor)",
+  "compound": "OOO",
   "indication": "Multiple Myeloma",
   "mechanismofaction": "XPO1 inhibitor",
   "enablestage1": "true",
@@ -620,7 +602,7 @@
   "enablestage4": "true",
   "enablestage5": "true",
   "enablestage6": "true",
-  "enablestage7": 60,
+  "enablestage7": "false",
   "status": "open",
   "clinicaltrails": "https:\/\/www.clinicaltrials.com",
   "targetclinicaltrials": "_blank",
@@ -629,7 +611,7 @@
   "description": "&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet dolor vel enim blandit tristique. Quisque blandit, nulla vel placerat elementum, mi nisl pulvinar tortor, non bibendum odio ipsum eu odio.&lt;\/p&gt;"
  },
  {
-  "compound": "elacestrant",
+  "compound": "OOO",
   "indication": "Breast cancer Monotherapy",
   "mechanismofaction": "SERD (ER)",
   "enablestage1": "true",
@@ -638,7 +620,25 @@
   "enablestage4": "true",
   "enablestage5": "true",
   "enablestage6": "true",
-  "enablestage7": 60,
+  "enablestage7": "false",
+  "status": "open",
+  "clinicaltrails": "https:\/\/www.clinicaltrials.com",
+  "targetclinicaltrials": "_blank",
+  "labelclinicaltrials": "Clinical Trials",
+  "readmore": "&lt;p&gt;Elacestrant is a selective estrogen receptor degrader (SERD) evaluated for potential use as a once daily oral treatment in patients with estrogen receptor positive (ER+)\/HER2- advanced or metastatic breast cancer. Studies completed to date, including the positive results from the EMERALD phase 3 trial, indicate that the compound has the potential for use as a single agent or in combination with other therapies for the treatment of breast cancer. Indeed, Elacestrant has been the first oral SERD to show positive results in a pivotal, phase III trial as a monotherapy versus standard of care for the treatment of ER+\/ HER2- advanced or metastatic breast cancer.&nbsp;&lt;\/p&gt;\n\n&lt;p&gt;ORSERDU was approved by the U.S. FDA in 2023 for the treatment of postmenopausal women or adult men, with ER-positive, HER2-negative, ESR1-mutated advanced or metastatic breast cancer with disease progression following at least one line of endocrine therapy.    \n&lt;\/p&gt;\n\n&lt;p&gt;\n&lt;a href=\"https:\/\/drive.google.com\/file\/d\/1aE_1XYQqLKDZZZQIOMqU-a-VhQUGIT8w\/view\"&gt;Review Prescribing Information&lt;\/a&gt;  &lt;\/p&gt;",
+  "description": "&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet dolor vel enim blandit tristique. Quisque blandit, nulla vel placerat elementum, mi nisl pulvinar tortor, non bibendum odio ipsum eu odio.&lt;\/p&gt;"
+ },
+ {
+  "compound": "OOO",
+  "indication": "Breast cancer Monotherapy",
+  "mechanismofaction": "SERD (ER)",
+  "enablestage1": "true",
+  "enablestage2": "true",
+  "enablestage3": "true",
+  "enablestage4": "true",
+  "enablestage5": "true",
+  "enablestage6": "true",
+  "enablestage7": "false",
   "status": "open",
   "clinicaltrails": "https:\/\/www.clinicaltrials.com",
   "targetclinicaltrials": "_blank",
@@ -647,7 +647,7 @@
   "description": "&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet dolor vel enim blandit tristique. Quisque blandit, nulla vel placerat elementum, mi nisl pulvinar tortor, non bibendum odio ipsum eu odio.&lt;\/p&gt;"
  },
  {
-  "compound": "elacestrant",
+  "compound": "OOO",
   "indication": "Breast cancer Monotherapy",
   "mechanismofaction": "SERD (ER)",
   "enablestage1": "true",
@@ -656,7 +656,7 @@
   "enablestage4": "false",
   "enablestage5": "false",
   "enablestage6": "false",
-  "enablestage7": 30,
+  "enablestage7": "false",
   "status": "open",
   "clinicaltrails": "https:\/\/www.clinicaltrials.com",
   "targetclinicaltrials": "_blank",
@@ -665,7 +665,7 @@
   "description": "&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet dolor vel enim blandit tristique. Quisque blandit, nulla vel placerat elementum, mi nisl pulvinar tortor, non bibendum odio ipsum eu odio.&lt;\/p&gt;"
  },
  {
-  "compound": "elacestrant",
+  "compound": "PPP",
   "indication": "Breast cancer Monotherapy",
   "mechanismofaction": "SERD (ER)",
   "enablestage1": "true",
@@ -674,7 +674,7 @@
   "enablestage4": "false",
   "enablestage5": "false",
   "enablestage6": "false",
-  "enablestage7": 30,
+  "enablestage7": "false",
   "status": "open",
   "clinicaltrails": "https:\/\/www.clinicaltrials.com",
   "targetclinicaltrials": "_blank",
