@@ -1,6 +1,6 @@
 [
 	{
-		"country":"USA",
+		"country":"USA test",
 		"image":"https://raw.githubusercontent.com/davide-mariotti/productsStemline/main/Kaleidon60.png",
 		"name":"Prodotto A 1",
 		"website":"https://www.google.com",
@@ -8,7 +8,7 @@
 		"labelwebsite":"Prodotto 1 link"
 	},
 	{
-		"country":"USA",
+		"country":"USA test",
 		"image":"https://raw.githubusercontent.com/davide-mariotti/productsStemline/main/KaleidonIdro.png",
 		"name":"Prodotto A 2",
 		"website":"https://www.google.com",
