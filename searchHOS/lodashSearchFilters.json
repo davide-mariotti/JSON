@@ -15,12 +15,7 @@
             "source3",
             "source4"
         ],
-        "typology":[
-            "typology1",
-            "typology2",
-            "typology3",
-            "typology4"
-        ],
+        "typology":"typology4",
         "tag":[
             "tag1",
             "tag2",
