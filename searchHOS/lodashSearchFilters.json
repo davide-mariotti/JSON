@@ -1,147 +1,282 @@
 [
-    {
-        "topic":[
-            "topic6",
-            "topic5",
-            "topic4"
-        ],
-        "author":[
-            "author1",
-            "author2"
-        ],
-        "source":[
-            "source1",
-            "source2",
-            "source3",
-            "source4"
-        ],
-        "typology":"Report",
-        "tag":[
-            "tag1",
-            "tag2",
-            "tag3",
-            "tag4"
-        ],
-        "description":"TEST Lorem Ipsum",
-        "urlLink":"https://www.google.com",
-        "targetLink":"_blank",
-        "labelLink":"Vai al link",
-        "year":"2020",
-        "date":"01/01/2020"
-    },
-    {
-        "topic":"topic1",
-        "author":[
-            "author1",
-            "author2"
-        ],
-        "source":[
-            "source1",
-            "source2",
-            "source3",
-            "source4"
-        ],
-        "typology":"Report",
-        "tag":[
-            "tag1",
-            "tag2",
-            "tag3",
-            "tag4"
-        ],
-        "description":"TEST Lorem Ipsum",
-        "urlLink":"https://www.google.com",
-        "targetLink":"_blank",
-        "labelLink":"Vai al link",
-        "year":"2020",
-        "date":"01/01/2020"
-    },
-    {
-        "topic":[
-            "topic1",
-            "topic3"
-        ],
-        "author":[
-            "author1",
-            "author2"
-        ],
-        "source":[
-            "source1",
-            "source2",
-            "source3",
-            "source4"
-        ],
-        "typology":"Report",
-        "tag":[
-            "tag1",
-            "tag2",
-            "tag3",
-            "tag4"
-        ],
-        "description":"TEST Lorem Ipsum",
-        "urlLink":"https://www.google.com",
-        "targetLink":"_blank",
-        "labelLink":"Vai al link",
-        "year":"2020",
-        "date":"01/01/2020"
-    },
-    {
-        "topic":[
-            "topic1",
-            "topic2",
-            "topic3"
-        ],
-        "author":[
-            "author1",
-            "author2"
-        ],
-        "source":[
-            "source1",
-            "source2",
-            "source3",
-            "source4"
-        ],
-        "typology":"Report",
-        "tag":[
-            "tag1",
-            "tag2",
-            "tag3",
-            "tag4"
-        ],
-        "description":"TEST Lorem Ipsum",
-        "urlLink":"https://www.google.com",
-        "targetLink":"_blank",
-        "labelLink":"Vai al link",
-        "year":"2020",
-        "date":"01/01/2020"
-    },
-    {
-        "topic":[
-            "topic1",
-            "topic2",
-            "topic3"
-        ],
-        "author":[
-            "author1",
-            "author2"
-        ],
-        "source":[
-            "source1",
-            "source2",
-            "source3",
-            "source4"
-        ],
-        "typology":"Articles",
-        "tag":[
-            "tag1",
-            "tag2",
-            "tag3",
-            "tag4"
-        ],
-        "description":"TEST Lorem Ipsum",
-        "urlLink":"https://www.google.com",
-        "targetLink":"_blank",
-        "labelLink":"Vai al link",
-        "year":"2020",
-        "date":"01/01/2020"
-    }
+ {
+  "topic": [
+   "Climate Change",
+   "Renewable Energy",
+   "Green Technology"
+  ],
+  "author": [
+   "John Smith",
+   "Emily Johnson"
+  ],
+  "source": [
+   "The Guardian",
+   "BBC News",
+   "CNN"
+  ],
+  "typology": "Articles",
+  "tag": [
+   "Sustainability",
+   "Environment",
+   "Global Warming"
+  ],
+  "description": "TEST Lorem Ipsum",
+  "urlLink": "https://www.theguardian.com/environment/2020/01/01/climate-change-report",
+  "targetLink": "_blank",
+  "labelLink": "Read more",
+  "year": "2020",
+  "date": "01/01/2020"
+ },
+ {
+  "topic": [
+   "Healthcare",
+   "Medical Research",
+   "Pharmaceuticals"
+  ],
+  "author": [
+   "David Lee",
+   "Samantha Brown"
+  ],
+  "source": [
+   "New York Times",
+   "The Lancet",
+   "Reuters"
+  ],
+  "typology": "Report",
+  "tag": [
+   "Drug Development",
+   "Public Health",
+   "Clinical Trials"
+  ],
+  "description": "TEST Lorem Ipsum",
+  "urlLink": "https://www.nytimes.com/2020/01/01/health/clinical-trials-pharmaceuticals",
+  "targetLink": "_blank",
+  "labelLink": "View report",
+  "year": "2020",
+  "date": "01/01/2020"
+ },
+ {
+  "topic": [
+   "Artificial Intelligence",
+   "Machine Learning",
+   "Data Science"
+  ],
+  "author": [
+   "Andrew Kim",
+   "Linda Chen"
+  ],
+  "source": [
+   "MIT Technology Review",
+   "Wired",
+   "Forbes"
+  ],
+  "typology": "Perspective",
+  "tag": [
+   "AI Ethics",
+   "Automation",
+   "Big Data"
+  ],
+  "description": "TEST Lorem Ipsum",
+  "urlLink": "https://www.technologyreview.com/2020/01/01/238381/ai-ethics-automated-decision-making/",
+  "targetLink": "_blank",
+  "labelLink": "Read opinion piece",
+  "year": "2020",
+  "date": "01/01/2020"
+ },
+ {
+  "topic": [
+   "Sports",
+   "Football",
+   "Champions League"
+  ],
+  "author": [
+   "Mark Johnson",
+   "Sarah Lee"
+  ],
+  "source": [
+   "Sky Sports",
+   "ESPN",
+   "BBC Sport"
+  ],
+  "typology": "News",
+  "tag": [
+   "UEFA",
+   "Soccer",
+   "Match Report"
+  ],
+  "description": "TEST Lorem Ipsum",
+  "urlLink": "https://www.skysports.com/football/news/11945/11897787/champions-league-last-16-draw",
+  "targetLink": "_blank",
+  "labelLink": "Read news article",
+  "year": "2020",
+  "date": "01/01/2020"
+ },
+ {
+  "topic": [
+   "Finance",
+   "Investments",
+   "Stock Market"
+  ],
+  "author": [
+   "Michael Davis",
+   "Julie White"
+  ],
+  "source": [
+   "Bloomberg",
+   "Financial Times",
+   "Wall Street Journal"
+  ],
+  "typology": "Perspective",
+  "tag": [
+   "Economy",
+   "Corporate Finance",
+   "Investment Strategy"
+  ],
+  "description": "TEST Lorem Ipsum",
+  "urlLink": "https://www.bloomberg.com/opinion/articles/2020-01-01/what-s-going-on-with-the-global-economy-10-charts-to-watch",
+  "targetLink": "_blank",
+  "labelLink": "Read perspective piece",
+  "year": "2020",
+  "date": "01/01/2020"
+ },
+ {
+  "topic": [
+   "Travel",
+   "Tourism",
+   "Hospitality"
+  ],
+  "author": [
+   "Emma Lewis",
+   "Kevin Chen"
+  ],
+  "source": [
+   "National Geographic",
+   "Lonely Planet",
+   "Travel + Leisure"
+  ],
+  "typology": "Original Investigation",
+  "tag": [
+   "Sustainable Tourism",
+   "Hotel Industry",
+   "Travel Trends"
+  ],
+  "description": "TEST Lorem Ipsum",
+  "urlLink": "https://www.nationalgeographic.com/travel/features/sustainable-tourism-hotels/",
+  "targetLink": "_blank",
+  "labelLink": "Read investigation report",
+  "year": "2020",
+  "date": "01/01/2020"
+ },
+ {
+  "topic": [
+   "Technology",
+   "Artificial Intelligence",
+   "Machine Learning"
+  ],
+  "author": [
+   "John Smith",
+   "Emily Chen"
+  ],
+  "source": [
+   "MIT Technology Review",
+   "Wired",
+   "The Verge"
+  ],
+  "typology": "Articles",
+  "tag": [
+   "Deep Learning",
+   "Data Science",
+   "Computer Vision"
+  ],
+  "description": "TEST Lorem Ipsum",
+  "urlLink": "https://www.technologyreview.com/2019/12/20/131231/how-ai-researchers-are-keeping-us-from-falling-for-deepfake-videos/",
+  "targetLink": "_blank",
+  "labelLink": "Read article",
+  "year": "2019",
+  "date": "12/20/2019"
+ },
+ {
+  "topic": [
+   "Health",
+   "Medicine",
+   "Pharmacology"
+  ],
+  "author": [
+   "David Johnson",
+   "Maria Garcia"
+  ],
+  "source": [
+   "The Lancet",
+   "JAMA",
+   "New England Journal of Medicine"
+  ],
+  "typology": "Original Investigation",
+  "tag": [
+   "Clinical Trials",
+   "Drug Development",
+   "Public Health"
+  ],
+  "description": "TEST Lorem Ipsum",
+  "urlLink": "https://www.nejm.org/doi/full/10.1056/NEJMoa2020283",
+  "targetLink": "_blank",
+  "labelLink": "Read research paper",
+  "year": "2020",
+  "date": "01/01/2020"
+ },
+ {
+  "topic": [
+   "Politics",
+   "International Relations",
+   "Geopolitics"
+  ],
+  "author": [
+   "Robert Brown",
+   "Lucy Lee"
+  ],
+  "source": [
+   "Foreign Affairs",
+   "The Diplomat",
+   "Council on Foreign Relations"
+  ],
+  "typology": "Comment",
+  "tag": [
+   "Globalization",
+   "Power Politics",
+   "International Law"
+  ],
+  "description": "TEST Lorem Ipsum",
+  "urlLink": "https://www.foreignaffairs.com/articles/2021-03-22/g20-beyond",
+  "targetLink": "_blank",
+  "labelLink": "Read commentary",
+  "year": "2021",
+  "date": "03/22/2021"
+ },
+ {
+  "topic": [
+   "Environment",
+   "Climate Change",
+   "Renewable Energy"
+  ],
+  "author": [
+   "Sarah Jackson",
+   "Chris Lee"
+  ],
+  "source": [
+   "National Geographic",
+   "Scientific American",
+   "Nature"
+  ],
+  "typology": "Report",
+  "tag": [
+   "Carbon Footprint",
+   "Green Technology",
+   "Sustainable Development"
+  ],
+  "description": "TEST Lorem Ipsum",
+  "urlLink": "https://www.nationalgeographic.com/environment/2019/12/the-planet-will-never-be-the-same-again-after-the-coronavirus/",
+  "targetLink": "_blank",
+  "labelLink": "Read report",
+  "year": "2019",
+  "date": "12/01/2019"
+ }
 ]
