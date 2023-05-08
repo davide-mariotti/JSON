@@ -1,5 +1,6 @@
 [
  {
+  "title": "Titolo 1",
   "topic": [
    "Climate Change",
    "Renewable Energy",
@@ -28,6 +29,7 @@
   "date": "01/01/2020"
  },
  {
+  "title": "Titolo 2",
   "topic": [
    "Healthcare",
    "Medical Research",
@@ -56,6 +58,7 @@
   "date": "01/01/2020"
  },
  {
+  "title": "Titolo 3",
   "topic": [
    "Artificial Intelligence",
    "Machine Learning",
@@ -84,6 +87,7 @@
   "date": "01/01/2020"
  },
  {
+  "title": "Titolo 4",
   "topic": [
    "Sports",
    "Football",
@@ -112,6 +116,7 @@
   "date": "01/01/2020"
  },
  {
+  "title": "Titolo 5",
   "topic": [
    "Finance",
    "Investments",
@@ -140,6 +145,7 @@
   "date": "01/01/2020"
  },
  {
+  "title": "Titolo 6",
   "topic": [
    "Travel",
    "Tourism",
@@ -168,6 +174,7 @@
   "date": "01/01/2020"
  },
  {
+  "title": "Titolo 7",
   "topic": [
    "Technology",
    "Artificial Intelligence",
@@ -196,6 +203,7 @@
   "date": "12/20/2019"
  },
  {
+  "title": "Titolo 8",
   "topic": [
    "Health",
    "Medicine",
@@ -224,6 +232,7 @@
   "date": "01/01/2020"
  },
  {
+  "title": "Titolo 9",
   "topic": [
    "Politics",
    "International Relations",
@@ -252,6 +261,7 @@
   "date": "03/22/2021"
  },
  {
+  "title": "Titolo 10",
   "topic": [
    "Environment",
    "Climate Change",
