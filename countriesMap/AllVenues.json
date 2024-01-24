@@ -11,8 +11,8 @@
           "Link": "https://www.berlin-chemie.al",
           "Icon": "https://www.menarini.com/portals/31/Images/menarini_in_the_world/marker-lo.svg",
           "Coord": {
-            lat: 41.3275489807129,
-            lng: 19.8187007904053
+            "lat": "41.3275489807129",
+            "lng": "19.8187007904053"
           }
         },
         {
@@ -24,8 +24,8 @@
           "Link": "https://www.berlin-chemie.am",
           "Icon": "https://www.menarini.com/portals/31/Images/menarini_in_the_world/marker-lo.svg",
           "Coord": {
-            lat: 40.1791801452637,
-            lng: 44.4990997314453
+            "lat": "40.1791801452637",
+            "lng": "44.4990997314453"
           }
         },
         {
@@ -37,8 +37,8 @@
           "Link": "https://www.berlin-chemie.az",
           "Icon": "https://www.menarini.com/portals/31/Images/menarini_in_the_world/marker-lo.svg",
           "Coord": {
-            lat: 40.1431007385254,
-            lng: 47.5769309997559
+            "lat": "40.1431007385254",
+            "lng": "47.5769309997559"
           }
         },
         {
@@ -50,8 +50,8 @@
           "Link": "https://www.berlin-chemie.bg",
           "Icon": "https://www.menarini.com/portals/31/Images/menarini_in_the_world/marker-lo.svg",
           "Coord": {
-            lat: 42.6977081298828,
-            lng: 23.321870803833
+            "lat": "42.6977081298828",
+            "lng": "23.321870803833"
           }
         },
         {
@@ -63,8 +63,8 @@
           "Link": "https://www.berlin-chemie.ba",
           "Icon": "https://www.menarini.com/portals/31/Images/menarini_in_the_world/marker-lo.svg",
           "Coord": {
-            lat: 43.856258392334,
-            lng: 18.4130802154541
+            "lat": "43.856258392334",
+            "lng": "18.4130802154541"
           }
         },
         {
@@ -76,8 +76,8 @@
           "Link": "https://www.berlin-chemie.by",
           "Icon": "https://www.menarini.com/portals/31/Images/menarini_in_the_world/marker-lo.svg",
           "Coord": {
-            lat: 53.904541015625,
-            lng: 27.5615291595459
+            "lat": "53.904541015625",
+            "lng": "27.5615291595459"
           }
         },
         {
@@ -89,8 +89,8 @@
           "Link": "https://www.berlin-chemie.cz",
           "Icon": "https://www.menarini.com/portals/31/Images/menarini_in_the_world/marker-lo.svg",
           "Coord": {
-            lat: 50.0755386352539,
-            lng: 14.4378004074097
+            "lat": "50.0755386352539",
+            "lng": "14.4378004074097"
           }
         },
         {
@@ -102,8 +102,8 @@
           "Link": "https://www.berlin-chemie.de",
           "Icon": "https://www.menarini.com/portals/31/Images/menarini_in_the_world/marker-ml.svg",
           "Coord": {
-            lat: 52.5200119018555,
-            lng: 13.4049501419067
+            "lat": "52.5200119018555",
+            "lng": "13.4049501419067"
           }
         },
         {
@@ -115,8 +115,8 @@
           "Link": "https://www.berlin-chemie.de",
           "Icon": "https://www.menarini.com/portals/31/Images/menarini_in_the_world/marker-ms.svg",
           "Coord": {
-            lat: 52.5200119018555,
-            lng: 13.4049501419067
+            "lat": "52.5200119018555",
+            "lng": "13.4049501419067"
           }
         },
         {
@@ -128,8 +128,8 @@
           "Link": "https://www.berlin-chemie.de",
           "Icon": "https://www.menarini.com/portals/31/Images/menarini_in_the_world/marker-ds.svg",
           "Coord": {
-            lat: 52.5200119018555,
-            lng: 13.4049501419067
+            "lat": "52.5200119018555",
+            "lng": "13.4049501419067"
           }
         },
         {
@@ -141,8 +141,8 @@
           "Link": "https://www.berlin-chemie.ee",
           "Icon": "https://www.menarini.com/portals/31/Images/menarini_in_the_world/marker-lo.svg",
           "Coord": {
-            lat: 59.4369583129883,
-            lng: 24.7535705566406
+            "lat": "59.4369583129883",
+            "lng": "24.7535705566406"
           }
         },
         {
@@ -154,8 +154,8 @@
           "Link": "https://www.berlin-chemie.fi",
           "Icon": "https://www.menarini.com/portals/31/Images/menarini_in_the_world/marker-lo.svg",
           "Coord": {
-            lat: 60.1698608398438,
-            lng: 24.9383792877197
+            "lat": "60.1698608398438",
+            "lng": "24.9383792877197"
           }
         },
         {
@@ -167,8 +167,8 @@
           "Link": "https://www.berlin-chemie.ge",
           "Icon": "https://www.menarini.com/portals/31/Images/menarini_in_the_world/marker-lo.svg",
           "Coord": {
-            lat: 41.7151412963867,
-            lng: 44.8270988464355
+            "lat": "41.7151412963867",
+            "lng": "44.8270988464355"
           }
         },
         {
@@ -180,8 +180,8 @@
           "Link": "https://www.berlin-chemie.hr",
           "Icon": "https://www.menarini.com/portals/31/Images/menarini_in_the_world/marker-lo.svg",
           "Coord": {
-            lat: 45.8150100708008,
-            lng: 15.9819202423096
+            "lat": "45.8150100708008",
+            "lng": "15.9819202423096"
           }
         },
         {
@@ -193,8 +193,8 @@
           "Link": "https://www.berlin-chemie.hu",
           "Icon": "https://www.menarini.com/portals/31/Images/menarini_in_the_world/marker-lo.svg",
           "Coord": {
-            lat: 47.4979095458984,
-            lng: 19.0402393341064
+            "lat": "47.4979095458984",
+            "lng": "19.0402393341064"
           }
         },
         {
@@ -206,8 +206,8 @@
           "Link": "http://www.berlin-chemie.kz",
           "Icon": "https://www.menarini.com/portals/31/Images/menarini_in_the_world/marker-lo.svg",
           "Coord": {
-            lat: 48.0195693969727,
-            lng: 66.9236831665039
+            "lat": "48.0195693969727",
+            "lng": "66.9236831665039"
           }
         },
         {
@@ -219,8 +219,8 @@
           "Link": "https://www.berlin-chemie.kg",
           "Icon": "https://www.menarini.com/portals/31/Images/menarini_in_the_world/marker-lo.svg",
           "Coord": {
-            lat: 42.8746185302734,
-            lng: 74.5697631835938
+            "lat": "42.8746185302734",
+            "lng": "74.5697631835938"
           }
         },
         {
@@ -232,8 +232,8 @@
           "Link": "https://www.berlin-chemie.lt",
           "Icon": "https://www.menarini.com/portals/31/Images/menarini_in_the_world/marker-lo.svg",
           "Coord": {
-            lat: 54.6871604919434,
-            lng: 25.2796497344971
+            "lat": "54.6871604919434",
+            "lng": "25.2796497344971"
           }
         },
         {
@@ -245,8 +245,8 @@
           "Link": "https://www.berlin-chemie.lv",
           "Icon": "https://www.menarini.com/portals/31/Images/menarini_in_the_world/marker-lo.svg",
           "Coord": {
-            lat: 56.949649810791,
-            lng: 24.1051902770996
+            "lat": "56.949649810791",
+            "lng": "24.1051902770996"
           }
         },
         {
@@ -258,8 +258,8 @@
           "Link": "https://www.berlin-chemie.md",
           "Icon": "https://www.menarini.com/portals/31/Images/menarini_in_the_world/marker-lo.svg",
           "Coord": {
-            lat: 47.0104484558105,
-            lng: 28.8638095855713
+            "lat": "47.0104484558105",
+            "lng": "28.8638095855713"
           }
         },
         {
@@ -271,8 +271,8 @@
           "Link": "https://www.berlin-chemie.rs",
           "Icon": "https://www.menarini.com/portals/31/Images/menarini_in_the_world/marker-lo.svg",
           "Coord": {
-            lat: 42.430419921875,
-            lng: 19.259370803833
+            "lat": "42.430419921875",
+            "lng": "19.259370803833"
           }
         },
         {
@@ -284,8 +284,8 @@
           "Link": "",
           "Icon": "https://www.menarini.com/portals/31/Images/menarini_in_the_world/marker-lo.svg",
           "Coord": {
-            lat: 47.8863983154297,
-            lng: 106.905700683594
+            "lat": "47.8863983154297",
+            "lng": "106.905700683594"
           }
         },
         {
@@ -297,8 +297,8 @@
           "Link": "https://www.berlin-chemie.pl",
           "Icon": "https://www.menarini.com/portals/31/Images/menarini_in_the_world/marker-lo.svg",
           "Coord": {
-            lat: 52.229679107666,
-            lng: 21.0122299194336
+            "lat": "52.229679107666",
+            "lng": "21.0122299194336"
           }
         },
         {
@@ -310,8 +310,8 @@
           "Link": "https://www.berlin-chemie.ro",
           "Icon": "https://www.menarini.com/portals/31/Images/menarini_in_the_world/marker-lo.svg",
           "Coord": {
-            lat: 44.4267692565918,
-            lng: 26.1025390625
+            "lat": "44.4267692565918",
+            "lng": "26.1025390625"
           }
         },
         {
@@ -323,8 +323,8 @@
           "Link": "http://www.berlin-chemie.ru",
           "Icon": "https://www.menarini.com/portals/31/Images/menarini_in_the_world/marker-lo.svg",
           "Coord": {
-            lat: 55.7558288574219,
-            lng: 37.6172981262207
+            "lat": "55.7558288574219",
+            "lng": "37.6172981262207"
           }
         },
         {
@@ -336,8 +336,8 @@
           "Link": "https://www.berlin-chemie.rs",
           "Icon": "https://www.menarini.com/portals/31/Images/menarini_in_the_world/marker-lo.svg",
           "Coord": {
-            lat: 44.7865715026855,
-            lng: 20.4489192962646
+            "lat": "44.7865715026855",
+            "lng": "20.4489192962646"
           }
         },
         {
@@ -349,8 +349,8 @@
           "Link": "https://www.berlin-chemie.sk",
           "Icon": "https://www.menarini.com/portals/31/Images/menarini_in_the_world/marker-lo.svg",
           "Coord": {
-            lat: 48.163332397922,
-            lng: 17.1775930116079
+            "lat": "48.163332397922",
+            "lng": "17.1775930116079"
           }
         },
         {
@@ -362,8 +362,8 @@
           "Link": "https://www.berlin-chemie.si",
           "Icon": "https://www.menarini.com/portals/31/Images/menarini_in_the_world/marker-lo.svg",
           "Coord": {
-            lat: 46.0569496154785,
-            lng: 14.5057497024536
+            "lat": "46.0569496154785",
+            "lng": "14.5057497024536"
           }
         },
         {
@@ -375,8 +375,8 @@
           "Link": "https://www.berlin-chemie.tm",
           "Icon": "https://www.menarini.com/portals/31/Images/menarini_in_the_world/marker-lo.svg",
           "Coord": {
-            lat: 37.9600791931152,
-            lng: 58.3260612487793
+            "lat": "37.9600791931152",
+            "lng": "58.3260612487793"
           }
         },
         {
@@ -388,8 +388,8 @@
           "Link": "https://www.berlin-chemie.ua",
           "Icon": "https://www.menarini.com/portals/31/Images/menarini_in_the_world/marker-lo.svg",
           "Coord": {
-            lat: 50.4500999450684,
-            lng: 30.5233993530273
+            "lat": "50.4500999450684",
+            "lng": "30.5233993530273"
           }
         },
         {
@@ -401,8 +401,8 @@
           "Link": "https://www.berlin-chemie.uz",
           "Icon": "https://www.menarini.com/portals/31/Images/menarini_in_the_world/marker-lo.svg",
           "Coord": {
-            lat: 41.2994995117188,
-            lng: 69.2400665283203
+            "lat": "41.2994995117188",
+            "lng": "69.2400665283203"
           }
         }
       ]
